@@ -11,7 +11,7 @@ My name is Hannah. I am a web development student at Humber College.
 ## Projects
 | Project Title | Description | URL |
 | ----------- | ----------- | ----------- |
-|SmallBizHub Website | Designed UI of website on Figma that promotes small businesses. | [SmallBizHub Website](https://www.example.com) |
+|SmallBizHub Website | Designed UI of website on Figma that promotes small businesses. | [SmallBizHub Website](https://www.markdownguide.org/cheat-sheet/) |
 | WeGotTheShot Website | Created website in WordPress for the WeGotTheShot campaign. | [WeGotTheShot Website](https://www.example.com) |
 
 ## Education
