@@ -2,7 +2,7 @@
 A repo to store resume
 
 # Hannah Quintos
-My name is Hannah. I have a Bachelor of Arts in Psychology from Carleton University and am currently enrolled in a web development program at Humber College.
+My name is Hannah. I am a web development student at Humber College.
 
 ![Profile Image](/Desktop/profilePic.jpg)
 
@@ -11,13 +11,12 @@ My name is Hannah. I have a Bachelor of Arts in Psychology from Carleton Univers
 ## Projects
 | Project Title | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Project #1 | Description |
+| Project #2 | Description |
 
 ## Education
-1. First item
-2. Second item
-3. Third item
+1. Bachelor of Arts - Carleton University
+2. Web Development Certifcate - Humber College
 
 ## Work Experience
 1. First item
