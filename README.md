@@ -9,7 +9,7 @@ My name is Hannah. I have a Bachelor of Arts in Psychology from Carleton Univers
 #2 About
 
 #2 Projects
-| Syntax | Description |
+| Project Title | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
