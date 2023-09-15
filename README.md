@@ -11,17 +11,17 @@ My name is Hannah. I am a web development student at Humber College.
 ## Projects
 | Project Title | Description |
 | ----------- | ----------- |
-| Project #1 | Description |
-| Project #2 | Description |
+|SmallBizHub Website | Designed UI of website on Figma that promotes small businesses. |
+| WeGotTheShot Website | Created website in WordPress for the WeGotTheShot campaign. |
 
 ## Education
-1. Bachelor of Arts - Carleton University
-2. Web Development Certifcate - Humber College
+- Bachelor of Arts - Carleton University
+- Web Development Certifcate - Humber College
 
 ## Work Experience
-1. First item
-2. Second item
-3. Third item
+- First item
+- Second item
+- Third item
 
 ## Contact
 - [LinkedIn](https://ca.linkedin.com/in/hannah-quintos-572a99210)
