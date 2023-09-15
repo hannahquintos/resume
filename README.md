@@ -16,12 +16,11 @@ My name is Hannah. I am a web development student at Humber College.
 
 ## Education
 - Bachelor of Arts - Carleton University
-- Web Development Certifcate - Humber College
+- Web Development Certifcate (expected to graduate 2024) - Humber College
 
 ## Work Experience
-- First item
-- Second item
-- Third item
+- Content Strategist - CityStudio Canada
+- Customer Service Representative - La Maison Simons
 
 ## Contact
 - [LinkedIn](https://ca.linkedin.com/in/hannah-quintos-572a99210)
