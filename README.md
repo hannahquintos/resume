@@ -26,5 +26,4 @@ My name is Hannah. I have a Bachelor of Arts in Psychology from Carleton Univers
 
 ## Contact
 - [LinkedIn]([https://www.example.com](https://ca.linkedin.com/in/hannah-quintos-572a99210)https://ca.linkedin.com/in/hannah-quintos-572a99210)
-- [GitHub](https://www.example.com)
-- Third item
+- [GitHub]([https://www.example.com](https://github.com/hannahquintos)https://github.com/hannahquintos)
