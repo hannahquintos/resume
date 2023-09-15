@@ -4,7 +4,7 @@ A repo to store resume
 #H1 Hannah Quintos
 My name is Hannah. I have a Bachelor of Arts in Psychology from Carleton University and am currently enrolled in a web development program at Humber College.
 
-[![Profile Image](/Desktop/profilePic.jpg)]
+[![Profile Image](/Hannah/Desktop/profilePic.jpg)]
 
 #2 About
 
