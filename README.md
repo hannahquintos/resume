@@ -9,10 +9,10 @@ My name is Hannah. I am a web development student at Humber College.
 ## About
 
 ## Projects
-| Project Title | Description |
-| ----------- | ----------- |
-|SmallBizHub Website | Designed UI of website on Figma that promotes small businesses. |
-| WeGotTheShot Website | Created website in WordPress for the WeGotTheShot campaign. |
+| Project Title | Description | URL |
+| ----------- | ----------- | ----------- |
+|SmallBizHub Website | Designed UI of website on Figma that promotes small businesses. | [SmallBizHub Website](https://www.example.com) |
+| WeGotTheShot Website | Created website in WordPress for the WeGotTheShot campaign. | [WeGotTheShot Website](https://www.example.com) |
 
 ## Education
 - Bachelor of Arts - Carleton University
