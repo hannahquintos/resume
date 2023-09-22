@@ -2,11 +2,11 @@
 A repo to store resume
 
 # Hannah Quintos
+
+## About
 My name is Hannah. I am a web development student at Humber College.
 
 ![Profile Image](/_readme/profile-image.jpg)
-
-## About
 
 ## Projects
 | Project Title | Description | URL |
