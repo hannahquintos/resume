@@ -1,3 +1,3 @@
 ## Hannah Quintos
 
-[Projects](projects.markdown)
+[Home](index.markdown) [Projects](projects.markdown) [Contact](contact.markdown)
